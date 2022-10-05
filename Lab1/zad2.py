@@ -9,7 +9,3 @@ print(type(zm2))
 zm3 = float(3)
 print(zm3)
 print(type(zm3))
-
-zm4 = float("3")
-print(zm4)
-print(type(zm4))

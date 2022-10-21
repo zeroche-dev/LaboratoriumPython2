@@ -1,3 +1,4 @@
+# dodano komentarz
 x = input("Podaj literę: ")
 if len(x) > 1 or len(x) == 0:
     print("Niepoprawne dane")
